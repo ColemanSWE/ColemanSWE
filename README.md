@@ -3,7 +3,7 @@
 ### I'm a software developer from the US currently living and working in Stockholm, Sweden.
 
 - I have a [personal site][website] that I use to showcase music and artwork. Built from scratch using React.js and Sass.
-- I have several git repositories showcasing my skills in various languages, mostly Python, React.js, Python, and frontend skills such as HTML and CSS.
+- I have several git repositories showcasing my skills in various languages, mostly Python, React.js, and frontend skills such as HTML and CSS.
 - In my spare time I like to produce music and play guitar, play video games, and work out.
 
 ### Connect with me:
