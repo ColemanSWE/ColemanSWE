@@ -1,8 +1,6 @@
 ### Hello! I'm Coleman.
 
 ### I'm a software developer from the US currently living and working in Stockholm, Sweden.
-
-- I have a [personal site][website] that I use to showcase music and artwork. Built from scratch using React.js and Sass.
 - I have several git repositories showcasing my skills in various languages, mostly Python, React.js, and frontend skills such as HTML and CSS.
 - In my spare time I like to produce music and play guitar, play video games, and work out.
 
@@ -25,5 +23,4 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-[website]: http://www.suffocationpit.com
 [linkedin]: https://linkedin.com/in/coleman-rose
