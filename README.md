@@ -1,6 +1,6 @@
 ### Hello! I'm Coleman.
 
-### I'm a software developer from the US currently living and working in Stockholm, Sweden.
+### I'm a fullstack software developer currently working in Stockholm.
 - I have several git repositories showcasing my skills in various languages, mostly Python, React.js, and frontend skills such as HTML and CSS.
 - In my spare time I like to produce music and play guitar, play video games, and work out.
 
