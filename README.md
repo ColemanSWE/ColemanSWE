@@ -14,7 +14,7 @@
 
 ### About
 
-Full-stack developer with 5+ years of experience building scalable web applications and digital infrastructure. I specialize in React ecosystems, TypeScript architectures, and solving complex problems with clean, maintainable code.
+Full-stack developer with 6+ years of experience building scalable web applications and digital infrastructure. I specialize in React ecosystems, TypeScript architectures, and solving complex problems with clean, maintainable code.
 
 Currently at **255 Pix Studio** building AI-driven tooling and experiences!
 
