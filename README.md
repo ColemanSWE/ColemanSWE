@@ -46,15 +46,3 @@ Currently at **255 Pix Studio** building AI-driven tooling and experiences!
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-
----
-
-### Featured Projects
-
-| Project                                               | Description                                                                                  | Stack                       |
-| ----------------------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------- |
-| [**HSL Live Tracker**](https://github.com/colemanswe) | Real-time Helsinki public transport tracker with interactive maps and MQTT vehicle streaming | TypeScript, Leaflet, MQTT   |
-| [**Tachyon**](https://github.com/colemanswe)          | High-performance HTTP/HTTPS proxy written in Rust for learning systems programming           | Rust, Tokio, Async I/O      |
-| [**Portfolio**](https://www.colemanro.se/)            | 3D animated portfolio with scroll-triggered effects and responsive design                    | Next.js, Three.js, Tailwind |
-
----
